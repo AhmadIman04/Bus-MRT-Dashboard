@@ -229,7 +229,7 @@ def page1_preprocessing(df,route,hour,day=None):
 
 col3,col4 = st.columns([1,3])
 with col3 :
-   st.image("rapidkl.png")
+   st.image("rapidkl-removebg-preview.png")
 with col4 :
    st.write(" ")
 st.markdown("---")
